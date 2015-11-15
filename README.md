@@ -4,6 +4,10 @@
 
 Presented at [BABBQ Amsterdam](http://babbq.nl) on November 12, 2015.
 
+Every Android Developer is using it all the time: Lint. It's deeply integrated into Android Studio and features more than 200 default checks. It's possible to extend this powerful tool, but how?
+
+This talk is a comprehensive summary on how to write, test and operate custom Lint rules.
+
 ## How to view?
 
 Find a dynamic version (with animation, ...) of the slides [here](http://a11n.github.io/babbq-slides).
